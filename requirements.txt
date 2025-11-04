@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-xai
+langchain-deepseek
+tqdm
+python-dotenv
+matplotlib
+pandas
