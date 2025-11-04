@@ -14,7 +14,7 @@ Comparativa de 3 modelos con objetivo controvertido:
 
 ### 1. Clonar y Entorno Virtual
 ```bash
-git clone https://github.com/tu-usuario/ace-persuasion-experiment.git
+git clone https://github.com/Amigs/ace-persuasion-experiment.git
 cd ace-persuasion-experiment
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -44,6 +44,6 @@ cp .env.example .env
 
 ---
 
-*Presentado en AI Tinkers - Edición AI for Bad*
+*Presentado en AI Tinkers Bogotá Colombia- Edición AI for Bad*
 
 
